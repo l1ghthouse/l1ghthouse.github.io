@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-![banner](../docs/assets/images/testbanner1.png)
+![banner](../docs/assets/testbanner1.png)
 
-![banner](../docs/testbanner1.png)
+![]()
 
 You can use the [editor on GitHub](https://github.com/l1ghthouse/l1ghthouse.github.org/edit/website/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
