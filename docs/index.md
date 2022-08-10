@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![banner](docs/assets/testbanner1.png)
+![banner](/docs/assets/testbanner1.png)
 
 ![]()
 
