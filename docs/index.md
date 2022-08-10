@@ -1,7 +1,9 @@
 ## Welcome to GitHub Pages
 
 # YOOOOOO PRs!!!
-![Image](website/assets/images/2.png)
+![Image](https://github.com/SenorGeese/l1ghthouse-test.github.io/blob/website/assets/images/2.png)
+
+![Image](https://raw.githubusercontent.com/SenorGeese/l1ghthouse-test.github.io/website/assets/images/2.png)
 
 You can use the [editor on GitHub](https://github.com/l1ghthouse/l1ghthouse.github.org/edit/website/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
